@@ -24,7 +24,7 @@ pycparser==2.14
 pycryptodomex==3.4.2
 pyOpenSSL==16.0.0
 python-dateutil==2.5.3
-requests==2.10.0
+requests==2.20.0
 rsa==3.4.2
 six==1.10.0
 validictory==1.0.1
